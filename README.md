@@ -1,7 +1,11 @@
 ## Career
 
 <img width="24" alt="symbol_v_wyg" src="https://github.com/yangsooplus/yangsooplus/assets/69582122/a6b3607c-6a07-4eae-bcbf-169b154ad12d">
-카카오브레인 PathFinder 2기 인턴 안드로이드 (2023.06 ~ 2023.08)
+
+[카카오브레인 PathFinder 2기](https://blog.kakaobrain.com/team/krew/1253)
+인턴 안드로이드 (2023.06 ~ 2023.08)
+<br><br>
+
 
 ## Experience
 
