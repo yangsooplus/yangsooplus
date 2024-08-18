@@ -1,21 +1,26 @@
 ## Career
 
 <img width="24" alt="symbol_v_wyg" src="https://github.com/yangsooplus/yangsooplus/assets/69582122/a6b3607c-6a07-4eae-bcbf-169b154ad12d">
-카카오브레인 PathFinder 2기 인턴 안드로이드 (2023.06 ~ 2023.08)
+ 카카오브레인 PathFinder 2기 (2023.06 ~ 2023.08)
 
 <br>
+
 
 [카카오브레인 PathFinder 2기의 언어모델 활용기](https://blog.kakaobrain.com/team/krew/1253)
 
 <br>
 
+
+<img width="24" src="https://github.com/user-attachments/assets/01b8075f-df55-4fd9-b678-ae469814a367">
+ Knowmerce Corp. (2024.05 ~ 재직중)
+
 ## Experience
 
 <img width="16" alt="186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992" src="https://github.com/yangsooplus/yangsooplus/assets/69582122/eb0ec3e5-d4b4-467a-b625-390ba2fc3a32">
-네이버 부스트캠프 웹・모바일 7기 안드로이드 <span style="color:#808080">(2022.07 ~ 2022.12)</span>
+ 네이버 부스트캠프 웹・모바일 7기 안드로이드 <span style="color:#808080">(2022.07 ~ 2022.12)</span>
 <br><br>
 <img width="16" alt="yapp" src="https://github.com/yangsooplus/yangsooplus/assets/69582122/1726ea26-eef0-4911-a40a-75ec854e1989">
-YAPP 23기 안드로이드 (2023.10 ~ 2024.02)
+ YAPP 23기 안드로이드 (2023.10 ~ 2024.02)
 
 ---
 
