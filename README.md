@@ -4,7 +4,10 @@
  카카오브레인 PathFinder 2기 (2023.06 ~ 2023.08)
 <br><br>
 <img width="24" src="https://github.com/user-attachments/assets/01b8075f-df55-4fd9-b678-ae469814a367">
- Knowmerce Corp. (2024.05 ~ 재직중)
+ Knowmerce Corp. (2024.05 ~ 2026.08)
+ 
+ 
+42dot (2026.08 ~ 재직중)
 
 ## Experience
 
